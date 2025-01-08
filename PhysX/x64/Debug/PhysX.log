@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\PhysX\PhysX\main.cpp(125,63): warning C4305: 'argument': truncation from 'double' to 'const physx::PxF32'
+C:\PhysX\PhysX\main.cpp(125,58): warning C4305: 'argument': truncation from 'double' to 'const physx::PxF32'
+  Physics.cpp
+  System.cpp
+  Generating Code...
+  PhysX.vcxproj -> C:\PhysX\x64\Debug\PhysX.exe
